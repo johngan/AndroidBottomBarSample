@@ -1,4 +1,4 @@
-package com.example.ngan.bottombarsample;
+package com.example.ngan.bottombarsample.activities;
 
 import android.support.annotation.IdRes;
 import android.support.design.widget.CoordinatorLayout;
@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.example.ngan.bottombarsample.R;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabClickListener;
 
