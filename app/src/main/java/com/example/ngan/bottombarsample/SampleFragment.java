@@ -1,4 +1,4 @@
-package com.example.ngan.bottombarsample.fragments;
+package com.example.ngan.bottombarsample;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

@@ -1,4 +1,4 @@
-package com.example.ngan.bottombarsample.activities;
+package com.example.ngan.bottombarsample;
 
 import android.support.annotation.IdRes;
 import android.support.design.widget.CoordinatorLayout;
